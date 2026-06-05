@@ -1,16 +1,24 @@
-# stt_app
+# STT App V2
 
-A new Flutter project.
+STT App V2 is a Flutter-based digital platform developed for Seveche Thayi Tatpar (STT) NGO to support donations, fundraising campaigns, merchandise sales, event management, and volunteer engagement.
 
-## Getting Started
+## Project Information
 
-This project is a starting point for a Flutter application.
+Project Type: Team Project
+Organization: Seveche Thayi Tatpar (STT) NGO
+Technology Stack: Flutter, Firebase, Firestore, Supabase
+Current Repository: Independently maintained and enhanced version
 
-A few resources to get you started if this is your first Flutter project:
+### Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+User Authentication
+Donation Management
+Event Registration and Tracking
+Merchandise Catalog and Orders
+User Profile Management
+Admin Dashboard
+Campaign and Volunteer Management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### My Contribution
+
+Contributed to the development, documentation, testing, and implementation of the STT NGO application. This repository contains an independently maintained version with ongoing improvements and enhancements.
