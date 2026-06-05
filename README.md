@@ -38,7 +38,9 @@ As a member of the project team, I contributed to the application design, docume
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Login Page
+
+![Login Page](assets/screenshots/login.png)
 
 ## Disclaimer
 
