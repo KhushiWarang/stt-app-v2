@@ -4,10 +4,11 @@ STT App V2 is a Flutter-based digital platform developed for Seveche Thayi Tatpa
 
 ## Project Information
 
-Project Type: Team Project
-Organization: Seveche Thayi Tatpar (STT) NGO
-Technology Stack: Flutter, Firebase, Firestore, Supabase
-Current Repository: Independently maintained and enhanced version
+## Project Information
+
+- Project Type: Team Project
+- Organization: Seveche Thayi Tatpar (STT) NGO
+- Technology Stack: Flutter, Firebase, Firestore, Supabase
 
 ### Features
 
